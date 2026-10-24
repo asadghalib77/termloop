@@ -1,0 +1,603 @@
+{
+  "title": "Stanford HAI Artificial Intelligence Glossary",
+  "source": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+  "source_url": "https://hai.stanford.edu/ai-definitions",
+  "content_note": "Definitions are concise paraphrases of the Stanford HAI glossary, structured for machine-readable use.",
+  "entry_count": 99,
+  "terms": [
+    {
+      "term": "Adversarial Distillation Attack",
+      "category_letter": "A",
+      "definition_summary": "An attack that covertly interferes with a model-distillation or related training process to influence the resulting model.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "AGI (Artificial General Intelligence)",
+      "category_letter": "A",
+      "definition_summary": "A hypothetical AI system with broad, general-purpose abilities comparable to or beyond human capability across many tasks and domains.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Agentic AI",
+      "category_letter": "A",
+      "definition_summary": "AI designed to pursue goals with some autonomy by planning, using tools, making decisions, responding to feedback, and adapting its actions.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "AI Alignment",
+      "category_letter": "A",
+      "definition_summary": "The effort to make an AI system’s goals and behavior consistent with human intentions, values, and rules.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "AI Benchmarks",
+      "category_letter": "A",
+      "definition_summary": "Standardized evaluations used to measure and compare AI performance on defined tasks.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "AI Fluency",
+      "category_letter": "A",
+      "definition_summary": "The ability to work effectively and responsibly with AI by understanding its strengths, limits, risks, and practical uses.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "AI Safety",
+      "category_letter": "A",
+      "definition_summary": "The field concerned with making AI systems reliable and reducing the risk that they cause harm.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "AI Tech Stack",
+      "category_letter": "A",
+      "definition_summary": "The combination of software, hardware, infrastructure, and computing resources used to build, train, deploy, and operate AI systems.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "AI Workflow",
+      "category_letter": "A",
+      "definition_summary": "The end-to-end process for creating and operating an AI system, including data preparation, training, evaluation, deployment, and maintenance.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Algorithm",
+      "category_letter": "A",
+      "definition_summary": "A defined sequence of steps used to solve a problem or carry out a task.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Algorithmic Monoculture",
+      "category_letter": "A",
+      "definition_summary": "A situation in which many organizations rely on the same or very similar algorithms, systems, or datasets.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Artificial Hivemind",
+      "category_letter": "A",
+      "definition_summary": "A network of AI systems or agents that exchange information and coordinate their actions.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Artificial Intelligence (AI)",
+      "category_letter": "A",
+      "definition_summary": "The science and engineering of creating machines or software capable of tasks associated with intelligent behavior.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Attention Mechanism",
+      "category_letter": "A",
+      "definition_summary": "A neural-network technique that lets a model emphasize the most relevant parts of its input while producing an output.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Automation",
+      "category_letter": "A",
+      "definition_summary": "The use of technology to carry out tasks according to rules or instructions defined by people.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Backpropagation",
+      "category_letter": "B",
+      "definition_summary": "A learning method for neural networks that propagates prediction errors backward through the network to update model parameters.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Bayesian Networks",
+      "category_letter": "B",
+      "definition_summary": "Probabilistic graphical models that represent variables and their conditional relationships.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Bias (in AI)",
+      "category_letter": "B",
+      "definition_summary": "Systematic behavior in an AI system that can unfairly favor or disadvantage certain people or groups.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Big Data",
+      "category_letter": "B",
+      "definition_summary": "Very large or complex datasets that often require advanced computational methods to store, process, and analyze.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Chatbot",
+      "category_letter": "C",
+      "definition_summary": "Software designed to interact conversationally with people through text, voice, or both.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Closed Source",
+      "category_letter": "C",
+      "definition_summary": "Software whose source code is not publicly available for inspection, modification, or redistribution.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Computer Vision",
+      "category_letter": "C",
+      "definition_summary": "A field of AI focused on enabling computers to analyze and understand visual information such as images and video.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Context Window",
+      "category_letter": "C",
+      "definition_summary": "The amount of input information an AI model can consider at one time during a task.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Contrastive Learning",
+      "category_letter": "C",
+      "definition_summary": "A learning approach in which a model compares similar and dissimilar examples to learn useful representations.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Data Augmentation",
+      "category_letter": "D",
+      "definition_summary": "A technique for expanding training data by creating modified versions of existing examples.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Data Mining",
+      "category_letter": "D",
+      "definition_summary": "The process of finding useful patterns, relationships, or trends in large datasets.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Data Poisoning",
+      "category_letter": "D",
+      "definition_summary": "An attack in which training data is deliberately altered, inserted, or mislabeled to influence a machine-learning model.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Decision Tree",
+      "category_letter": "D",
+      "definition_summary": "A model that makes predictions by repeatedly splitting data according to feature-based decision rules.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Deep Learning",
+      "category_letter": "D",
+      "definition_summary": "A branch of machine learning based on multi-layer neural networks that learn complex patterns from data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Diffusion Models",
+      "category_letter": "D",
+      "definition_summary": "Generative models that learn to create data by reversing a gradual noise-adding process.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Dimensionality Reduction",
+      "category_letter": "D",
+      "definition_summary": "A method for reducing the number of variables in data while preserving important structure or information.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Embeddings",
+      "category_letter": "E",
+      "definition_summary": "Numerical vector representations that encode semantic or structural features of data such as text, images, or other objects.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Ensemble Methods",
+      "category_letter": "E",
+      "definition_summary": "Machine-learning techniques that combine predictions from multiple models to improve accuracy or robustness.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Ethical AI",
+      "category_letter": "E",
+      "definition_summary": "The design and use of AI in ways intended to support fairness, transparency, human values, and societal well-being.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Expert System",
+      "category_letter": "E",
+      "definition_summary": "An AI program that uses a knowledge base and rules to imitate expert decision-making in a specific domain.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Explainable AI (XAI)",
+      "category_letter": "E",
+      "definition_summary": "Methods that make an AI system’s decisions or predictions easier for people to understand.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Federated Learning",
+      "category_letter": "F",
+      "definition_summary": "A training method in which a shared model learns across multiple devices or servers without centralizing their raw local data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Few-Shot Learning",
+      "category_letter": "F",
+      "definition_summary": "Learning or adapting to a new task using only a small number of examples.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Fine-tuning",
+      "category_letter": "F",
+      "definition_summary": "Additional training of a pre-trained model on task-specific or domain-specific data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Foundation Model",
+      "category_letter": "F",
+      "definition_summary": "A large, broadly trained model that can be adapted for many downstream applications.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Frontier Model",
+      "category_letter": "F",
+      "definition_summary": "A highly capable general-purpose AI model near the leading edge of current AI development.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Generative AI",
+      "category_letter": "G",
+      "definition_summary": "AI systems that create new content such as text, images, audio, video, or code.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Generative Adversarial Networks (GANs)",
+      "category_letter": "G",
+      "definition_summary": "Generative architectures in which a generator and a discriminator are trained in competition to produce realistic synthetic data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Generative Pre-Trained Transformer (GPT)",
+      "category_letter": "G",
+      "definition_summary": "A family of transformer-based language models trained to generate and work with natural-language text.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "GPU (Graphics Processing Unit)",
+      "category_letter": "G",
+      "definition_summary": "A processor optimized for large numbers of parallel calculations, widely used for graphics and AI workloads.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Hallucination (in AI)",
+      "category_letter": "H",
+      "definition_summary": "A response produced by an AI system that is incorrect, misleading, or fabricated while being presented as if it were reliable.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Human-Centered AI",
+      "category_letter": "H",
+      "definition_summary": "An approach to AI development that prioritizes human needs, values, capabilities, and well-being.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Human-Computer Interaction (HCI)",
+      "category_letter": "H",
+      "definition_summary": "The study and design of how people interact with computers and digital systems.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Human-in-the-loop",
+      "category_letter": "H",
+      "definition_summary": "An AI setup in which people provide feedback, review, control, or intervention during operation or training.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Hyperparameter",
+      "category_letter": "H",
+      "definition_summary": "A model configuration value chosen before or outside the main learning process rather than learned directly from the data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Hyperscaler",
+      "category_letter": "H",
+      "definition_summary": "A large technology provider operating massive cloud and data-center infrastructure that can scale computing resources quickly.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Inference",
+      "category_letter": "I",
+      "definition_summary": "The stage where a trained model uses new input data to generate predictions, decisions, or outputs.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Interpretability",
+      "category_letter": "I",
+      "definition_summary": "The degree to which people can understand how or why an AI system produced a particular result.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "k-Nearest Neighbors (k-NN)",
+      "category_letter": "K",
+      "definition_summary": "A machine-learning algorithm that predicts using the labels or values of the most similar nearby examples.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Knowledge Graph",
+      "category_letter": "K",
+      "definition_summary": "A structured representation of entities and the relationships that connect them.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Large Language Model (LLM)",
+      "category_letter": "L",
+      "definition_summary": "A language model trained on very large text corpora to understand and generate human-like language.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Latent Space",
+      "category_letter": "L",
+      "definition_summary": "A compressed mathematical representation in which complex data is encoded into underlying features or patterns.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "LLMOps",
+      "category_letter": "L",
+      "definition_summary": "Practices for deploying, monitoring, maintaining, and managing large-language-model applications in production.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Loss Function",
+      "category_letter": "L",
+      "definition_summary": "A mathematical function that measures how far a model’s predictions are from desired or correct outcomes.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Machine Learning (ML)",
+      "category_letter": "M",
+      "definition_summary": "A branch of AI in which systems learn patterns from data to make predictions or decisions instead of relying only on explicit rules.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Markov Chain",
+      "category_letter": "M",
+      "definition_summary": "A probabilistic model where the next state depends on the current state rather than the full sequence of past states.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "MLOps",
+      "category_letter": "M",
+      "definition_summary": "Engineering practices for reliably deploying, monitoring, updating, and maintaining machine-learning systems in production.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Model",
+      "category_letter": "M",
+      "definition_summary": "A mathematical or computational representation learned or designed to capture patterns and produce predictions or other outputs.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Model Drift",
+      "category_letter": "M",
+      "definition_summary": "A decline in model performance over time as real-world data or relationships change from those seen during training.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Multimodal AI",
+      "category_letter": "M",
+      "definition_summary": "AI systems that can work with more than one type of data, such as text, images, audio, or video.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Natural Language Processing (NLP)",
+      "category_letter": "N",
+      "definition_summary": "A branch of AI concerned with enabling computers to process, understand, and generate human language.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Neural Network",
+      "category_letter": "N",
+      "definition_summary": "A layered computational model made of interconnected units that learn patterns by adjusting numerical parameters.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Optimization Algorithm",
+      "category_letter": "O",
+      "definition_summary": "A method for adjusting model parameters to reduce error or improve an objective during training.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Overfitting",
+      "category_letter": "O",
+      "definition_summary": "A condition in which a model learns the training data too closely and performs poorly on new, unseen data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Open-Source Model",
+      "category_letter": "O",
+      "definition_summary": "An AI model released with enough underlying materials and permissions for others to inspect, run, modify, or reproduce it.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Open-Weight Model",
+      "category_letter": "O",
+      "definition_summary": "An AI model whose learned weights are publicly released for others to download and use.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Open Source",
+      "category_letter": "O",
+      "definition_summary": "Software whose source code is made available under terms that allow people to inspect, use, and often modify it.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Parameter",
+      "category_letter": "P",
+      "definition_summary": "An internal numerical value learned by a model during training.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Predictive Analytics",
+      "category_letter": "P",
+      "definition_summary": "The use of data, statistics, and machine-learning methods to estimate future outcomes or trends.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Prompt Engineering",
+      "category_letter": "P",
+      "definition_summary": "The practice of designing instructions and context to guide an AI model toward a desired response or behavior.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Prompt Injection",
+      "category_letter": "P",
+      "definition_summary": "A security attack that uses crafted input to manipulate an AI model into ignoring or overriding intended instructions.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "RAG (Retrieval-Augmented Generation)",
+      "category_letter": "R",
+      "definition_summary": "A technique in which a language model retrieves external information and uses it as context when generating an answer.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Reasoning Model",
+      "category_letter": "R",
+      "definition_summary": "An AI system optimized for solving complex tasks through structured intermediate reasoning or problem-solving steps.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Reinforcement Learning",
+      "category_letter": "R",
+      "definition_summary": "A machine-learning approach in which an agent learns through actions, feedback, rewards, and penalties.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Responsible AI",
+      "category_letter": "R",
+      "definition_summary": "Principles and practices aimed at developing and deploying AI in safe, ethical, accountable, and trustworthy ways.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Robotics",
+      "category_letter": "R",
+      "definition_summary": "The field of designing and building machines that sense, decide, and perform physical actions, often using AI.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Spatial Intelligence",
+      "category_letter": "S",
+      "definition_summary": "The ability to understand three-dimensional space, object relationships, movement, and physical interaction.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Self-Supervised Learning",
+      "category_letter": "S",
+      "definition_summary": "A learning approach in which training targets are derived automatically from the data itself rather than supplied manually.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Semantic Analysis",
+      "category_letter": "S",
+      "definition_summary": "The analysis of language to determine meaning and relationships among words, phrases, and symbols.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Scaling Laws",
+      "category_letter": "S",
+      "definition_summary": "Empirical relationships describing how model performance changes as factors such as model size, data, or compute increase.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Supervised Learning",
+      "category_letter": "S",
+      "definition_summary": "Machine learning in which models are trained on examples paired with known target labels or outputs.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Synthetic Data",
+      "category_letter": "S",
+      "definition_summary": "Artificially generated data created by algorithms or simulations rather than collected directly from real-world observations.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Tensor",
+      "category_letter": "T",
+      "definition_summary": "A multidimensional array of numbers used to represent and process data in machine-learning systems.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Tokenization",
+      "category_letter": "T",
+      "definition_summary": "The process of splitting text into smaller units, called tokens, that a language model can process.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Traditional AI",
+      "category_letter": "T",
+      "definition_summary": "Earlier AI approaches based mainly on explicit rules, symbolic logic, and hand-crafted knowledge rather than data-driven learning.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Training Data",
+      "category_letter": "T",
+      "definition_summary": "The examples used to teach a machine-learning model how to perform a task.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Transfer Learning",
+      "category_letter": "T",
+      "definition_summary": "Reusing knowledge from a model trained on one task as a starting point for another related task.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Transformer",
+      "category_letter": "T",
+      "definition_summary": "A neural-network architecture built around attention mechanisms for modeling relationships within input data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Turing Test",
+      "category_letter": "T",
+      "definition_summary": "A test proposed by Alan Turing to evaluate whether a machine’s conversational behavior can be indistinguishable from that of a human.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Unsupervised Learning",
+      "category_letter": "U",
+      "definition_summary": "Machine learning that finds patterns or structure in data without labeled target answers.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Vector Database",
+      "category_letter": "V",
+      "definition_summary": "A database optimized for storing and searching high-dimensional vector representations such as embeddings.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Vision Transformer (ViT)",
+      "category_letter": "V",
+      "definition_summary": "A transformer-based architecture adapted to process and analyze image data.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Weights",
+      "category_letter": "W",
+      "definition_summary": "Learned numerical parameters that determine the strength of connections and influence a neural network’s computations.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    },
+    {
+      "term": "Zero-Shot Learning",
+      "category_letter": "Z",
+      "definition_summary": "The ability of a model to handle tasks or categories it was not explicitly trained on by using broader learned knowledge.",
+      "source_url": "https://hai.stanford.edu/ai-definitions"
+    }
+  ]
+}
